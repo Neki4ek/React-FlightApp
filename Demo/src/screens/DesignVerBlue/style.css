@@ -1,0 +1,641 @@
+.design-ver-blue {
+  background-color: #333333;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 1920px;
+  height: 1080px;
+}
+
+.design-ver-blue .overlap-wrapper {
+  background-color: #333333;
+  height: 1080px;
+  width: 1920px;
+}
+
+.design-ver-blue .overlap {
+  background-image: url(../../../static/img/1662410107-37-kartinkin-net-p-tuchi-minimalizm-vkontakte-70-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1080px;
+  position: relative;
+  width: 1920px;
+}
+
+.design-ver-blue .start-button {
+  all: unset;
+  box-sizing: border-box;
+  height: 80px;
+  left: 880px;
+  position: absolute;
+  top: 955px;
+  width: 162px;
+}
+
+.design-ver-blue .overlap-group {
+  background-color: #ecf0f1;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 30px;
+  height: 80px;
+  position: relative;
+  width: 160px;
+}
+
+.design-ver-blue .text-wrapper {
+  color: #000000;
+  font-family: "Jura", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  left: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  white-space: nowrap;
+}
+
+.design-ver-blue .div {
+  height: 604px;
+  left: 969px;
+  position: absolute;
+  top: 304px;
+  width: 641px;
+}
+
+.design-ver-blue .stages {
+  height: 524px;
+  left: 0;
+  overflow: hidden;
+  overflow-y: scroll;
+  position: absolute;
+  top: 80px;
+  width: 632px;
+}
+
+.design-ver-blue .stages-element {
+  height: 50px;
+  left: 1px;
+  position: absolute;
+  top: 54px;
+  width: 638px;
+}
+
+.design-ver-blue .div-2 {
+  background-color: #ecf0f1;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 30px;
+  height: 50px;
+  position: relative;
+  width: 630px;
+}
+
+.design-ver-blue .delete {
+  background-color: #2a65a1;
+  border-radius: 30px;
+  height: 36px;
+  left: 586px;
+  position: absolute;
+  top: 6px;
+  width: 36px;
+}
+
+.design-ver-blue .union {
+  height: 22px;
+  left: 7px;
+  position: absolute;
+  top: 7px;
+  width: 22px;
+}
+
+.design-ver-blue .text-wrapper-2 {
+  color: #000000;
+  font-family: "Jura", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 56px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.design-ver-blue .text-wrapper-3 {
+  color: #000000;
+  font-family: "Jura", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 299px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.design-ver-blue .text-wrapper-4 {
+  color: #000000;
+  font-family: "Jura", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 474px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.design-ver-blue .text-wrapper-5 {
+  color: #000000;
+  font-family: "Jura", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.design-ver-blue .navbar-wrapper {
+  height: 50px;
+  left: 1px;
+  position: absolute;
+  top: 114px;
+  width: 638px;
+}
+
+.design-ver-blue .overlap-group-wrapper {
+  height: 50px;
+  left: 1px;
+  position: absolute;
+  top: 174px;
+  width: 638px;
+}
+
+.design-ver-blue .div-wrapper {
+  height: 50px;
+  left: 1px;
+  position: absolute;
+  top: 234px;
+  width: 638px;
+}
+
+.design-ver-blue .stages-element-2 {
+  height: 50px;
+  left: 1px;
+  position: absolute;
+  top: 294px;
+  width: 638px;
+}
+
+.design-ver-blue .stages-element-3 {
+  height: 50px;
+  left: 1px;
+  position: absolute;
+  top: 354px;
+  width: 638px;
+}
+
+.design-ver-blue .stages-element-4 {
+  height: 50px;
+  left: 1px;
+  position: absolute;
+  top: 414px;
+  width: 638px;
+}
+
+.design-ver-blue .stages-element-5 {
+  height: 50px;
+  left: 1px;
+  position: absolute;
+  top: 474px;
+  width: 638px;
+}
+
+.design-ver-blue .stages-element-6 {
+  height: 50px;
+  left: 1px;
+  position: absolute;
+  top: 534px;
+  width: 638px;
+}
+
+.design-ver-blue .stages-element-7 {
+  height: 50px;
+  left: 1px;
+  position: absolute;
+  top: 594px;
+  width: 638px;
+}
+
+.design-ver-blue .stages-element-8 {
+  height: 50px;
+  left: 1px;
+  position: absolute;
+  top: 654px;
+  width: 638px;
+}
+
+.design-ver-blue .stages-element-9 {
+  height: 50px;
+  left: 1px;
+  position: absolute;
+  top: 714px;
+  width: 638px;
+}
+
+.design-ver-blue .stages-element-10 {
+  height: 50px;
+  left: 1px;
+  position: absolute;
+  top: 774px;
+  width: 638px;
+}
+
+.design-ver-blue .stages-element-11 {
+  height: 50px;
+  left: 1px;
+  position: absolute;
+  top: 834px;
+  width: 638px;
+}
+
+.design-ver-blue .stages-element-12 {
+  height: 50px;
+  left: 1px;
+  position: absolute;
+  top: 894px;
+  width: 638px;
+}
+
+.design-ver-blue .stages-element-13 {
+  height: 51px;
+  left: 1px;
+  position: absolute;
+  top: 954px;
+  width: 638px;
+}
+
+.design-ver-blue .overlap-2 {
+  background-color: #ecf0f1;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 30px;
+  height: 51px;
+  position: relative;
+  width: 630px;
+}
+
+.design-ver-blue .union-wrapper {
+  background-color: #2a65a1;
+  border-radius: 30px;
+  height: 37px;
+  left: 586px;
+  position: absolute;
+  top: 6px;
+  width: 36px;
+}
+
+.design-ver-blue .img {
+  height: 23px;
+  left: 7px;
+  position: absolute;
+  top: 7px;
+  width: 22px;
+}
+
+.design-ver-blue .text-wrapper-6 {
+  color: #000000;
+  font-family: "Jura", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 56px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+  width: 190px;
+}
+
+.design-ver-blue .text-wrapper-7 {
+  color: #000000;
+  font-family: "Jura", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 299px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+  width: 54px;
+}
+
+.design-ver-blue .text-wrapper-8 {
+  color: #000000;
+  font-family: "Jura", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 474px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+  width: 54px;
+}
+
+.design-ver-blue .text-wrapper-9 {
+  color: #000000;
+  font-family: "Jura", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+  width: 22px;
+}
+
+.design-ver-blue .stages-header {
+  height: 114px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 640px;
+}
+
+.design-ver-blue .overlap-3 {
+  background-color: #d4d4d4;
+  border-radius: 25px;
+  height: 114px;
+  position: relative;
+  width: 630px;
+}
+
+.design-ver-blue .rectangle {
+  background-color: #ecf0f1;
+  border-radius: 25px;
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 54px;
+  width: 630px;
+}
+
+.design-ver-blue .border {
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 25px;
+  height: 114px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 630px;
+}
+
+.design-ver-blue .text-wrapper-10 {
+  color: #000000;
+  font-family: "Jura", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  left: 145px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.design-ver-blue .text-wrapper-11 {
+  color: #000000;
+  font-family: "Jura", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 472px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 72px;
+  white-space: nowrap;
+}
+
+.design-ver-blue .indicated-air-speed {
+  color: #000000;
+  font-family: "Jura", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 300px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 60px;
+}
+
+.design-ver-blue .text-wrapper-12 {
+  color: #000000;
+  font-family: "Jura", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 57px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 72px;
+  white-space: nowrap;
+}
+
+.design-ver-blue .text-wrapper-13 {
+  color: #000000;
+  font-family: "Jura", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 72px;
+  white-space: nowrap;
+}
+
+.design-ver-blue .map {
+  height: 604px;
+  left: 320px;
+  object-fit: cover;
+  position: absolute;
+  top: 304px;
+  width: 623px;
+}
+
+.design-ver-blue .add-bar {
+  background-color: #ecf0f1;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 25px;
+  height: 100px;
+  left: 320px;
+  position: absolute;
+  top: 184px;
+  width: 1280px;
+}
+
+.design-ver-blue .course {
+  height: 50px;
+  left: 24px;
+  position: absolute;
+  top: 24px;
+  width: 396px;
+}
+
+.design-ver-blue .overlap-group-2 {
+  background-color: #ecf0f1;
+  border: 1px solid;
+  border-color: #373737;
+  border-radius: 13px;
+  box-shadow: var(--enter-field);
+  height: 50px;
+  left: 112px;
+  position: absolute;
+  top: 0;
+  width: 280px;
+}
+
+.design-ver-blue .text-wrapper-14 {
+  color: #000000;
+  font-family: "Jura", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.design-ver-blue .text-wrapper-15 {
+  color: #000000;
+  font-family: "Jura", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.design-ver-blue .speed {
+  height: 56px;
+  left: 466px;
+  position: absolute;
+  top: 21px;
+  width: 365px;
+}
+
+.design-ver-blue .overlap-4 {
+  background-color: #ecf0f1;
+  border: 1px solid;
+  border-color: #373737;
+  border-radius: 13px;
+  box-shadow: var(--enter-field);
+  height: 50px;
+  left: 181px;
+  position: absolute;
+  top: 3px;
+  width: 180px;
+}
+
+.design-ver-blue .text-wrapper-16 {
+  color: #000000;
+  font-family: "Jura", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 84px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.design-ver-blue .text-wrapper-17 {
+  color: #000000;
+  font-family: "Jura", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.design-ver-blue .altitude {
+  height: 56px;
+  left: 876px;
+  position: absolute;
+  top: 21px;
+  width: 307px;
+}
+
+.design-ver-blue .overlap-5 {
+  background-color: #ecf0f1;
+  border: 1px solid;
+  border-color: #373737;
+  border-radius: 13px;
+  box-shadow: var(--enter-field);
+  height: 50px;
+  left: 123px;
+  position: absolute;
+  top: 3px;
+  width: 180px;
+}
+
+.design-ver-blue .plus {
+  background-color: #2a65a1;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 13px;
+  height: 50px;
+  left: 1204px;
+  position: absolute;
+  top: 24px;
+  width: 50px;
+}
+
+.design-ver-blue .union-2 {
+  height: 38px;
+  left: 5px;
+  position: absolute;
+  top: 5px;
+  width: 38px;
+}
+
+.design-ver-blue .text-wrapper-18 {
+  -webkit-text-stroke: 1px #000000;
+  color: #ecf0f1;
+  font-family: "Jura", Helvetica;
+  font-size: 64px;
+  font-weight: 700;
+  left: 502px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 81px;
+  white-space: nowrap;
+}

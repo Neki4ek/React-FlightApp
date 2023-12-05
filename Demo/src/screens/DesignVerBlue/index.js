@@ -1,0 +1,1 @@
+export { DesignVerBlue } from "./DesignVerBlue";
